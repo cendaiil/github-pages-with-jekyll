@@ -2,6 +2,6 @@
 
 This is a github-pages-with-jekyll project page.
 
-##Short description
+## Short description
 
 Gallia divisa in partes tres
