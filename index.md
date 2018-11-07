@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is a github-pages-with-jekyll project page.
+
+##Short description
+
+Gallia divisa in partes tres
